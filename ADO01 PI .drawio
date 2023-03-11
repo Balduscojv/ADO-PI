@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-11T01:44:28.228Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0" etag="n7iUEl-_FSm19jP7Gz6b" version="21.0.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-03-11T01:52:32.980Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0" etag="GySzTGzvJNZnSggopsDJ" version="21.0.6" type="github" pages="4">
   <diagram name="Exercicio A" id="4B9BO25oKtHDPkh3hYL-">
     <mxGraphModel dx="1009" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -289,7 +289,10 @@
         <mxCell id="KcljU-1RYOROdLVzqFUz-9" value="Fim" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="310" y="850" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KcljU-1RYOROdLVzqFUz-14" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
+        <mxCell id="mEv3PlZX_r_g3exVvyn_-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KcljU-1RYOROdLVzqFUz-14" target="KcljU-1RYOROdLVzqFUz-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KcljU-1RYOROdLVzqFUz-14" value="a diferença é 6." style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="730" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aIJbCeXb3b1_bpNuSySf-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aIJbCeXb3b1_bpNuSySf-1" target="aIJbCeXb3b1_bpNuSySf-2" edge="1">
